@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+main{
+	 width: 300px;
+      padding: 20px;
+      background-color: #ffffff;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+      font-family: sans-serif;	
+}
+img{
+	display:block;
+	margin:auto;
+}
+h1,p{
+  font-family: sans-serif;
+	text-align:center;
+}
+button{
+	background-color:red;
+	color:white;
+	margin:auto;
+	display: block;
+}
